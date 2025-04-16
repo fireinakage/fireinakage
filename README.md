@@ -10,6 +10,12 @@ https://wrappedbot.com
 > https://dev.wrappedbot.com
 
 Dontate Here:
+
+
+
+
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B81DG9YT)
 
 <!--
