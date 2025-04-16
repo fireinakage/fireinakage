@@ -1,9 +1,9 @@
 ## Hi there 👋
 
  **Get to Know Me:**
-Front-end Developer
-Developer for Wrapped V2
-Website Maker
+- Front-end Developer
+- Developer for Wrapped V2
+- Website Maker
 
  __🔭 I’m currently working on:__
 https://wrappedbot.com
