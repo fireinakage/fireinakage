@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+ **Get to Know Me:**
+Front-end Developer
+Developer for Wrapped V2
+Website Maker
+
+ __🔭 I’m currently working on:__
+https://wrappedbot.com
+> https://dev.wrappedbot.com
+
+Dontate Here:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B81DG9YT)
+
 <!--
 **fireinakage/fireinakage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
