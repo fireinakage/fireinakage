@@ -2,7 +2,7 @@
 
  **Get to Know Me:**
 - Front-end Developer
-- Developer for Wrapped V2
+- Developer for Leveretbot
 - Website Maker
 
  __🔭 I’m currently working on:__
