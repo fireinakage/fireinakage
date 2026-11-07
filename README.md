@@ -1,8 +1,8 @@
 ## Hi there 👋
 
  **Get to Know Me:**
-- Front-end Developer
-- Developer for Leveretbot
+- Front-end Developer & Back-end Developer
+- Lead Developer for Apply V2
 - Website Maker
 
  __🔭 I’m currently working on:__
@@ -20,7 +20,7 @@
 
 
 
-School  Coding! (Game Design & App Development)
+School  Coding! (CyberSecurity)
 > N/A
 
 
